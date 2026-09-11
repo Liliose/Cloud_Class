@@ -1,0 +1,12 @@
+1. Name of Virtual Machine: Linux-vm
+Resource group: LINUX-GROUP
+Public IP address
+51.4.106.117
+Private IP address
+172.16.0.4
+
+2. Size: 30Gb
+
+3. Three open ports: 22, 80, and 443.
+
+
